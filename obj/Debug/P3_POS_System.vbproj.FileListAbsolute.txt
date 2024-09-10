@@ -1,0 +1,19 @@
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\bin\Debug\P3_POS_System.exe.config
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\bin\Debug\P3_POS_System.exe
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\bin\Debug\P3_POS_System.pdb
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\bin\Debug\P3_POS_System.xml
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.vbproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.Form1.resources
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.Resources.resources
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.vbproj.GenerateResource.cache
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.exe
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.xml
+C:\Users\Michael\Desktop\Visual Basic Projects\P3_POS_System\obj\Debug\P3_POS_System.pdb
+C:\Users\micha\OneDrive\Desktop\P3_POS_System\obj\Debug\P3_POS_System.vbproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\P3_POS_System\obj\Debug\P3_POS_System.Form1.resources
+C:\Users\micha\OneDrive\Desktop\P3_POS_System\obj\Debug\P3_POS_System.vbproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Desktop\P3_POS_System\obj\Debug\P3_POS_System.exe
+C:\Users\micha\OneDrive\Desktop\P3_POS_System\obj\Debug\P3_POS_System.xml
+C:\Users\micha\OneDrive\Desktop\P3_POS_System\obj\Debug\P3_POS_System.pdb

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+P3_POS_System
+</name>
+</assembly>
+<members>
+<member name="T:P3_POS_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources._277454049_502864364750595_1411104828569641487_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources._277454049_502864364750595_1411104828569641487_n__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources._277454049_502864364750595_1411104828569641487_n__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources._277454049_502864364750595_1411104828569641487_n__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources._277454049_502864364750595_1411104828569641487_n__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources._277454049_502864364750595_1411104828569641487_n__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources._277454049_502864364750595_1411104828569641487_n1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.BEEF_1__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.BEEF_2__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.BEEF_3__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.CHICK_1__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.CHICK_2__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.CHICK_3__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.CHICKEN_CURRY__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.FISH_1__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.FISH_2__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.FISH_3__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.FRIED_CHICKEN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.HAMMER__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.PORK_1__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.PORK_2__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.PORK_3__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.TINOLA__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.VEG_1__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.VEG_2__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:P3_POS_System.My.Resources.Resources.VEG_3__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
